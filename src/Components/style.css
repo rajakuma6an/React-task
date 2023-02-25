@@ -1,0 +1,49 @@
+.segmentInput {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  caret-color: #4fa095;
+  padding: 0 20px;
+  border: 1px solid #8692a6;
+  font-weight: 500;
+  font-size: 14px;
+}
+.segmentInput:focus {
+  background: #ffffff;
+  border: 1px solid #1565d8;
+  box-sizing: border-box;
+  border-radius: 5px;
+  outline: none;
+  width: 100%;
+  height: 40px;
+  padding: 0px 20px;
+  color: #494949;
+  font-weight: 500;
+  font-size: 14px;
+}
+.ant-drawer-header {
+  background-color: #4fa095;
+}
+
+.ant-drawer-title {
+  color: #ffffff;
+}
+.ant-drawer-close {
+  display: none !important;
+}
+.submit-button {
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: #4fa095;
+  color: #ffffff;
+  width: 100%;
+}
+.task {
+  font-family: "poppins";
+}
+.btn-link {
+  outline: none;
+  color: #40c0af;
+}
